@@ -20,7 +20,7 @@ Ensure the following dependencies are installed:
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/rna-seq-pipeline.git
+git clone https://github.com/Shah3854/RNA-Seq.git
 cd rna-seq-pipeline
 ```
 
